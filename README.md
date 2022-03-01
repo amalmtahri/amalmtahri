@@ -13,10 +13,6 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 <h1>💻 Tech & Tools Preference</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmtahri&layout=compact)
-
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri&show_icons=true&theme=codeSTACKr)
 
 <h1>💻 Latest Projects</h1>
