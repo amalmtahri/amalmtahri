@@ -21,3 +21,12 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 
 
 
+<a href="https://github.com/amalmtahri/amalmtahri">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalmtahri&repo=BamcoReport_Devops" />
+</a>
+<a href="https://github.com/amalmtahri/CodingZone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalmtahri&repo=CodingZone" />
+</a>
+
+
+
