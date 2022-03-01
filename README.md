@@ -12,8 +12,8 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amal-mtahri-87a5701b8/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amal-mtahri-87a5701b8/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/amal-mtahri-87a5701b8/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/amal-mtahri-87a5701b8/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
