@@ -19,7 +19,7 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri&show_icons=true&theme=codeSTACKr)
 
-
+<h1>💻 Latest Projects</h1>
 
 <a href="https://github.com/amalmtahri/BamcoReport_Devops">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amalmtahri&repo=BamcoReport_Devops" />
