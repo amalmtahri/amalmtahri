@@ -11,6 +11,9 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 - 😄 Pronouns: ...
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri&hide=contribs,prs)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri)](https://github.com/anuraghazra/github-readme-stats)
 
 
