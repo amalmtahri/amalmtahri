@@ -14,6 +14,9 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri&count_private=true)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri&count_private=true)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amalmtahri&hide=contribs,prs)
 
 
