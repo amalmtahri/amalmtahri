@@ -10,7 +10,7 @@ Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welc
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/amal-mtahri-87a5701b8/" class="btn btn-primary" > Linkedin </a>
 - 😄 Pronouns: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmtahri&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalmtahri&layout=compact)
 
 
 
