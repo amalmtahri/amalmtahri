@@ -1,6 +1,6 @@
 ### Hi there, I'm Amal 👋
 
-Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welcome to my profile 😄😄
+Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welcome to my profile 😄�
 
 
 - 🔭 I’m currently working on Java, Spring Boot, Angular, Laravel, Php
