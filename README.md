@@ -3,7 +3,7 @@
 Hi My name is Amal, I'm a full stack Java developer, i'm living in Morocco, Welcome to my profile 😄
 
 
-- 🔭 I’m currently working on Java, Spring Boot, Angular, Laravel, Php, Vuejs ✔️
+- 🔭 I’m currently working on Java, Spring Boot, Spring, Angular, Laravel, Php, Vuejs ✔️
 - 🌱 I’m currently learning Java ☕
 - 👯 I’m looking to collaborate on other projects
 - 💬 Ask me about web development
